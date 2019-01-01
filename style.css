@@ -1,0 +1,53 @@
+	html, body
+		{
+			width: 100%;
+			height: 100%;
+			background-color: #ffff80;
+		}
+		
+		h1
+		{
+			color: red;
+		}
+		
+		#ask
+		{
+			width: 40%;
+			height: 6.5%;
+			border: none;
+		}
+		
+		#contentContainer
+		{
+			width: 100%;
+			display: flex;
+			flex-direction: column;
+		}
+		
+		#everything
+		{
+			height: 50%;
+			width: 50%;
+			margin: auto;
+		}
+		
+		.btnDesign:hover
+		{
+			cursor: pointer;
+		}
+		
+		.divDesign
+		{
+			width: 100%;
+			height: 20%;
+		}
+		
+		.shorten
+		{
+			width: 12%;
+		}
+		
+		.textRules
+		{
+			
+		}
